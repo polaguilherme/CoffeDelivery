@@ -1,4 +1,4 @@
-# Coffee Delivery App (Nome do App)
+# Coffee Delivery
 
 O **Coffee Delivery** é um aplicativo que permite aos amantes de café encomendar suas bebidas favoritas online e recebê-las com conveniência. Construído utilizando tecnologias modernas como React e integrando conceitos avançados como Immer, Zod para validação de formulários, Context API do React, React Hook Form e Styled Components, o aplicativo oferece uma experiência de usuário suave e eficiente.
 
